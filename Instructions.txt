@@ -1,0 +1,17 @@
+1. The rule of game:
+Control Snake to eat all Foods in area. If Snake hits the wall or its body, You will lost. 
+A MessageBox will appear and inform your spending time and points. Each Food is 1 point.
+
+2. How to Play
+Direction by:
+W: Up
+S: Down
+D: Right
+A: Left
+
+3.Features:
+- Adjust Size of Area (Width & Height)
+- Adjust Delay: The smaller the number, the faster the speed
+- Timer: count playing time
+- Score: count points while play game
+- Disable Playbutton,kinds of spinBox after click play
